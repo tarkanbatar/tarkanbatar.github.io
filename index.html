@@ -20,13 +20,25 @@
  			 });
 		</script>
 	  <script>
+	  let user = new Object();
+	  user = {
+	  	userID: null;
+		uyeID: 0;
+	  };
+
+	  
 	  OneSignal.push(function(){
           	OneSignal.showHttpPrompt();
 
        		OneSignal.getUserId().then(function(userId){
             	console.log("OneSignal User ID:", userId);
 		});
-   	  });
+		
+		user.uyeID += 1;
+		user.userID = userId;
+		console.log("user id:",userID);
+		console.log("uye id:",uyeID);
+	  });
 	  </script>
     <title> Tarkan Batar</title>
     <meta charset="utf-8">
