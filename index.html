@@ -1,4 +1,12 @@
-<!DOCTYPE html>
+<!-- <?php 
+
+if(  isset($_POST["action"]  ) &&  $_POST["action"]=="saveOneSignal"  ){
+
+}
+-->
+
+
+?><!DOCTYPE html>
 <html lang="en">
   <head>
 	  <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -25,6 +33,15 @@
 
        		OneSignal.getUserId().then(function(userId){
             	console.log("OneSignal User ID:", userId);
+		
+			if( sessionStorage.getItem("oneSignal") ==null ){
+				$.post("/",{"action":"saveOneSignal", "userID":userId }).then(function(resp){
+					if( resp=="OK"){
+						sessionStorage.addItem("oneSignal", userId);
+					}	
+				})
+			}
+			
 		});
 	  });
 	  </script>
