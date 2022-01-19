@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html">
+  <head>
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-162175410-1"></script>
+      <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'UA-162175410-1');
+      </script>
+    <title> Tarkan Batar</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,700" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
+    <link rel="stylesheet" href="css/animate.css">
+    
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="css/magnific-popup.css">
+
+    <link rel="stylesheet" href="css/aos.css">
+
+    <link rel="stylesheet" href="css/ionicons.min.css">
+
+    <link rel="stylesheet" href="css/bootstrap-datepicker.css">
+    <link rel="stylesheet" href="css/jquery.timepicker.css">
+
+    
+    <link rel="stylesheet" href="css/flaticon.css">
+    <link rel="stylesheet" href="css/icomoon.css">
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+
+	<div id="colorlib-page">
+		<a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle"><i></i></a>
+		<aside id="colorlib-aside" role="complementary" class="js-fullheight text-center">
+            <h1 id="colorlib-logo"><a href="index.php">
+
+
+
+
+
+            </a></h1>			<nav id="colorlib-main-menu" role="navigation">
+				<ul>
+					<li><a href="index.php">Home</a></li>
+					<li><a href="travel.html">Travel</a></li>
+					<li class="colorlib-active"><a href="about.html">About</a></li>
+					<li><a href="contact.php">Contact</a></li>
+				</ul>
+			</nav>
+
+			<div class="colorlib-footer">
+				<p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+				<ul>
+					<li><a href="https://www.facebook.com/tarkanbatar61" target="_blank"><i class="icon-facebook"></i></a></li>
+					<li><a href="https://www.twitter.com/tarkanbatar" target="_blank"><i class="icon-twitter"></i></a></li>
+                    <li><a href="https://www.linkedin.com/in/tarkanbatar" target="_blank"><i class="icon-linkedin"></i></a></li>
+                    <li><a href="https://www.github.com/tarkanbatar" target="_blank"><i class="icon-github"></i></a></li>
+				</ul>
+			</div>
+		</aside> <!-- END COLORLIB-ASIDE -->
+		<div id="colorlib-main" onscroll="">
+			<div class="hero-wrap hero-wrap-2 js-fullheight" style="background-image: url(images/bg_1.jpg);" data-stellar-background-ratio="0.7">
+				<div class="overlay"></div>
+				<div class="js-fullheight d-flex justify-content-center align-items-center">
+					<div class="col-md-8 text text-center">
+						<div class="desc">
+							<h3 class="mb-1"> Tarkan Batar </h3>
+                            <font size="1.5" </font>  <p class="mb-1" > I am a Computer Science and Engineering student at Marmara University. I am a passionate, determined and curious person who lives in Üsküdar-İstanbul. Currently, I am trying to graduate from my department to reach my future career goals. </p>
+                            <br>
+                            <br>
+                            <br>During my university period, I had many opportunities to join different kinds of communities which are Marmara University Blockchain Club, IEEE Marmara, Marmara University Industrial Engineering Society, Marmara University Computer Science Society. I have worked for 1 year to Marmara University Blockchain Club as a vice president & project manager.
+                            <br>
+                            <br>
+                            <br>So far I have used different technological tools in different technology areas. I was interested in robotics and Arduino in my freshman year and also I learned Java, C, Python, MS-SQL, R parallelly to my courses projects and homeworks.
+                             Additionally, I worked with Robot Framework with Selenium library during my internship time at GittiGidiyor.com as a DevOps and QA Test Engineer intern.
+                            <font size="1.5" </font><hr size="0"> Outside of the Computer Science and university life, I have many hobbies like basketball, football, making music, playing electric guitar, camping, trekking, making social organization with friends and cooking. I am following Turkish and British football leagues for football, NBA for basketball very often. I spend my weekend nights with my electric guitar. I don't have a band tho, we can create a band with you if you interested :) . Also I am working on my cooking skills to improve, so I can not count myself as succesful at it but I'm developing I guess. I am kind of obsessive about systematic life style, it is including planned, restricted, detail oriented and compact life. Because of that I have very low tolerance to mess, dirt and unserious attitudes.
+                             </p>
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</div><!-- END COLORLIB-MAIN -->
+	</div><!-- END COLORLIB-PAGE -->
+
+  <!-- loader -->
+  <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
+
+
+  <script src="js/jquery.min.js"></script>
+  <script src="js/jquery-migrate-3.0.1.min.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/jquery.easing.1.3.js"></script>
+  <script src="js/jquery.waypoints.min.js"></script>
+  <script src="js/jquery.stellar.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/jquery.magnific-popup.min.js"></script>
+  <script src="js/aos.js"></script>
+  <script src="js/jquery.animateNumber.min.js"></script>
+  <script src="js/bootstrap-datepicker.js"></script>
+  <script src="js/jquery.timepicker.min.js"></script>
+  <script src="js/scrollax.min.js"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
+  <script src="js/google-map.js"></script>
+  <script src="js/main.js"></script>
+    
+  </body>
+</html>
