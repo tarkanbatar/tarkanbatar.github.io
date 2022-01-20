@@ -1,1 +1,3 @@
 github pages does not static websites such as extensioned projects.
+
+please convert all of them to html file to run it on your website domain.
