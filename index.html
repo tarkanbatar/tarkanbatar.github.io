@@ -21,34 +21,7 @@
 
 		  gtag('config', 'UA-162175410-1');
 	  </script>
-      <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
-      <script>
-          window.OneSignal = window.OneSignal || [];
-          OneSignal.push(function() {
-              OneSignal.init({
-                  appId: "c638187f-099b-4cb6-aae4-43eb1ee2dd40",
-              });
-          });
-      </script>
-	  <script>
-	  OneSignal.push(function(){
-          	OneSignal.showHttpPrompt();
-       		OneSignal.getUserId().then(function(userId){
-            	console.log("OneSignal User ID:", userId);
-                sessionStorage.setItem("userID",userId);
-                    if ((sessionStorage.getItem("userID")).match("^[a-zA-Z0-9-]*$")) {
-                        if( sessionStorage.getItem("userID") !=null ){
-                            $.post("",{"action":"saveOneSignal", "userID":userId }).then(function(resp){
-                                if( resp=="OK"){
-                                    sessionStorage.addItem("oneSignal", userId);
-                                }
-                            })
-                        }
-                    } else
-                        console.log("User ID not valid!");
-            });
-	  });
-	  </script>
+
     <title> Tarkan Batar</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
