@@ -1,5 +1,0 @@
-github pages does not static websites such as extensioned projects.
-
-please convert all of them to html file to run it on your website domain.
-
-if you want to make new developments on it, please use your local servers or your IDE's built-in web app runners.
