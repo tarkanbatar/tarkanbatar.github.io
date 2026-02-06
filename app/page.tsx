@@ -59,7 +59,7 @@ export default function Home() {
 
         <section className="grid items-center gap-10 lg:grid-cols-[1.2fr_0.8fr]">
           <div className="flex flex-col gap-6">
-            <div className="h-32 w-32 overflow-hidden rounded-full border border-[#2a2a3a] bg-[#0f0f19] sm:h-36 sm:w-36">
+            <div className="h-40 w-40 overflow-hidden rounded-full border border-[#2a2a3a] bg-[#0f0f19] sm:h-48 sm:w-48">
               <img
                 src="/Tarkan%20Batar.jpg"
                 alt="Tarkan Batar"
