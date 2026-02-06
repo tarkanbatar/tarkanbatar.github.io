@@ -59,6 +59,13 @@ export default function Home() {
 
         <section className="grid items-center gap-10 lg:grid-cols-[1.2fr_0.8fr]">
           <div className="flex flex-col gap-6">
+            <div className="h-24 w-24 overflow-hidden rounded-full border border-[#2a2a3a] bg-[#0f0f19]">
+              <img
+                src="/Tarkan%20Batar.jpg"
+                alt="Tarkan Batar"
+                className="h-full w-full object-cover"
+              />
+            </div>
             <p className="text-sm uppercase tracking-[0.4em] text-[#ff9f1a]">
               Portfolio 2026
             </p>
