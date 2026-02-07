@@ -79,7 +79,7 @@ export default function Home() {
               (Laravel).
             </p>
             <div className="flex flex-wrap gap-4">
-              <a
+              {/* <a
                 className="rounded-full bg-[#ff9f1a] px-6 py-3 text-sm font-semibold uppercase tracking-[0.2em] text-[#1b1200] transition hover:translate-y-[-1px]"
                 href="#projects"
               >
@@ -90,7 +90,7 @@ export default function Home() {
                 href="#contact"
               >
                 Start a Project
-              </a>
+              </a> */}
             </div>
           </div>
 
