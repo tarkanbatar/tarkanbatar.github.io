@@ -212,6 +212,10 @@ export default function Home() {
               {[
                 "Java",
                 "Spring Boot",
+                "Node.js",
+                "JavaScript",
+                "PHP",
+                "Laravel",
                 "AWS",
                 "Lambda",
                 "API Gateway",
