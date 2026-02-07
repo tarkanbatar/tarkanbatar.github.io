@@ -101,8 +101,8 @@ export default function Home() {
               </p>
               <h2 className="font-display text-2xl">Actively seeking roles</h2>
               <p className="text-sm leading-relaxed text-[#c9c3ba]">
-                Based in Izmir, Turkey. Open to relocation (DE/NL) and remote
-                backend engineering opportunities.
+                Based in Izmir, Turkey. Open to backend engineering opportunities in Izmir, Istanbul (remote), Germany and The Netherlands. 
+                
               </p>
               <div className="grid grid-cols-2 gap-4 text-sm">
                 <div className="rounded-2xl border border-[#2a2a3a] bg-[#0f0f19] p-4">
@@ -257,13 +257,13 @@ export default function Home() {
                 2024-2025 — Senior Software Engineer, TPI Composites (Global IT).
               </li>
               <li>
-                2023-2024 — Software Engineer, TPI Composites (Local IT).
+                2023-2024 — Software Engineer, TPI Composites
               </li>
               <li>
-                2021-2023 — Software Engineer, incehesap.com (B2B ecommerce).
+                2021-2023 — Software Engineer, incehesap.com
               </li>
-              <li>2021 — Software Engineer, DMB Software Solutions.</li>
-              <li>2020 — Jr. Software Developer, AlienBroker.</li>
+              <li>2021 — Software Engineer, DMB Software Solutions</li>
+              <li>2020 — Jr. Software Developer, AlienBroker</li>
             </ul>
           </div>
           <div className="rounded-3xl border border-[#2a2a3a] bg-[#0f0f19] p-8">
