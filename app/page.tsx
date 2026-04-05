@@ -99,9 +99,9 @@ export default function Home() {
               <p className="text-xs uppercase tracking-[0.35em] text-[#c9c3ba]">
                 Now
               </p>
-              <h2 className="font-display text-2xl">Actively seeking roles</h2>
+              <h2 className="font-display text-2xl">Senior Software Engineer</h2>
               <p className="text-sm leading-relaxed text-[#c9c3ba]">
-                Based in Izmir, Turkey. 
+                @ FacIT FixIT, Remote (Saarland, Germany) Based in Izmir, Turkey. 
                 
               </p>
               <div className="grid grid-cols-2 gap-4 text-sm">
