@@ -15,7 +15,7 @@ export default function Home() {
       tags: ["GitHub Actions", "AWS", "DevOps"],
     },
     {
-      title: "B2B E-commerce Backend",
+      title: "B2B E-commerce Backend ",
       description:
         "Optimized high-traffic services, built inventory and product modules, and delivered reliable REST APIs.",
       year: "2021-2023",
