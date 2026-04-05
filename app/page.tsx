@@ -24,7 +24,7 @@ export default function Home() {
   ];
 
   const highlights = [
-    "5+ years building AWS-based backend systems",
+    "6+ years building AWS-based backend systems",
     "Expertise in Java (Spring Boot) and cloud services",
     "Proven migrations from monoliths to serverless",
     "CI/CD automation with GitHub Actions and AWS",
@@ -73,7 +73,7 @@ export default function Home() {
               Backend Engineer focused on reliable cloud systems.
             </h1>
             <p className="max-w-xl text-lg leading-relaxed text-[#c9c3ba]">
-              Software Engineer with 5+ years designing, developing, and
+              Software Engineer with 6+ years designing, developing, and
               maintaining AWS-based web applications. Specialized in Java
               (Spring Boot) with production experience in Node.js and PHP
               (Laravel).
@@ -101,7 +101,7 @@ export default function Home() {
               </p>
               <h2 className="font-display text-2xl">Actively seeking roles</h2>
               <p className="text-sm leading-relaxed text-[#c9c3ba]">
-                Based in Izmir, Turkey. Open to backend engineering opportunities in Izmir, Istanbul (remote), Germany and The Netherlands. 
+                Based in Izmir, Turkey. 
                 
               </p>
               <div className="grid grid-cols-2 gap-4 text-sm">
@@ -257,6 +257,9 @@ export default function Home() {
               Experience highlights
             </h2>
             <ul className="mt-6 space-y-5 text-sm text-[#c9c3ba]">
+              <li>
+                2026-Current — Senior Software Engineer, FacIT FixIT.
+              </li>
               <li>
                 2024-2025 — Senior Software Engineer, TPI Composites (Global IT).
               </li>
