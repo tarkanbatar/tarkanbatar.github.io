@@ -109,7 +109,7 @@ export default function Home() {
                   <p className="text-xs uppercase tracking-[0.3em] text-[#c9c3ba]">
                     Experience
                   </p>
-                  <p className="font-display text-2xl">5+ yrs</p>
+                  <p className="font-display text-2xl">6+ yrs</p>
                 </div>
                 <div className="rounded-2xl border border-[#2a2a3a] bg-[#0f0f19] p-4">
                   <p className="text-xs uppercase tracking-[0.3em] text-[#c9c3ba]">
